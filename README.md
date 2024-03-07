@@ -9,7 +9,7 @@
 
 ## How To Use
 
-You simply create a new session and send a link to another participant. **Try it now** - [E2E-chat](https://e2e-chat-swart.vercel.app/)
+You simply create a new session and send a link to another participant. **Try it now** - [E2E-chat](https://webchat-k5jx4vrq7-crypt.vercel.app/)
 
 ### FYI
 **Be mindful when sharing any sensitive information through this app**. This is just a pet project and my attempt at learning and understanding cryptography, in fact feel free to point out any issues or vulnerabilities, i'm always happy to learn.
