@@ -65,13 +65,20 @@ The application implements end-to-end encryption to ensure that chat messages ar
    ```bash
     cd E2E-Chat
     ```
-2. **Install Dependencies:**
+2. **Already have the project cloned?**
+   ```bash
+    cd E2E-Chat
+    ```
+    ```bash
+    git pull
+    ```
+3. **Install Dependencies:**
    ```bash
     npm install
     ```
-3. **Run the Application:**
+4. **Run the Application:**
     ```bash
      npm run dev
      ```
-4. **Open the Application:**
+5. **Open the Application:**
     Visit `http://localhost:3000` in your browser to access the application.
