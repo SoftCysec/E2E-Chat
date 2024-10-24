@@ -60,7 +60,7 @@ The application implements end-to-end encryption to ensure that chat messages ar
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SoftCysec/E2E-Chat.git
+   git clone https://github.com/okwareddevnest/E2E-Chat.git
    ```
    ```bash
     cd E2E-Chat
